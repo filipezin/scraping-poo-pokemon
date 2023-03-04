@@ -1,0 +1,6 @@
+1. Crie uma classe "Pokemon" que possua atributos como "nome", "tipo", "ataque" e "defesa". Adicione métodos para retornar esses atributos e sobrecarregue o operador de comparação para permitir a comparação de dois pokemons com base em seu ataque.
+2. Crie uma classe "Treinador" que herde da classe "Pessoa" e adicione um atributo "time" que será uma lista de pokemons. Adicione métodos para adicionar e remover pokemons do time.
+3. Crie uma classe "Batalha" que possua dois treinadores e determine o vencedor da batalha com base nos pokemons de seus times.
+4. Crie uma classe "Pokebola" que possua um pokemon capturado. Adicione métodos para liberar o pokemon e trocar o pokemon capturado.
+5. Crie uma classe "Loja Pokemon" que venda itens para treinadores, como poções e pokebolas. Adicione métodos para adicionar e remover itens da loja e para realizar compras.
+6. Crie uma classe "Pokedex" que possua informações sobre os pokemons, como ataques, defesas e tipos. Adicione métodos para adicionar pokemons na pokedex e pesquisar informações sobre um pokemon específico.
